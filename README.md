@@ -1,6 +1,6 @@
 [![Build Status](https://api.travis-ci.com/watsonbox/exportify.svg?branch=master)](https://travis-ci.com/watsonbox/exportify)
 
-<a href="https://watsonbox.github.io/exportify/"><img src="screenshot.png"/></a>
+<a href="https://watsonbox.github.io/exportify/"></a>
 
 Export your Spotify playlists to [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) by clicking on the link below:
 
